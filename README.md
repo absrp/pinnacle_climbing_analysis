@@ -5,4 +5,4 @@ Current features:
 - Tracking cumulative progress (# of sends) for each bouldering grade
 <img width="1053" alt="image" src="https://github.com/absrp/pinnacle_climbing_analysis/assets/52015046/8292371a-e012-4bc0-a1bd-d8d07673f2df">
 -  Tracking what proportion of climbs are a certain V grade or higher over time (default is quaterly analysis)
-<img width="1070" alt="image" src="https://github.com/absrp/pinnacle_climbing_analysis/assets/52015046/3894a6d9-857c-404a-902f-f8f7dfaab122">
+<img width="726" alt="image" src="https://github.com/absrp/pinnacle_climbing_analysis/assets/52015046/dd96f5f7-5b40-4843-a3fd-2add5b160d85">
