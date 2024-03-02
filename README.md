@@ -1,5 +1,6 @@
 # pinnacle_climbing_analysis
 A silly set of scripts to analyze climbing progress based on the pinnacle climbing app tracked features
+Features currently available for bouldering and top rope. 
 
 ### Current features
 - Tracking cumulative progress (# of sends) for each bouldering grade
