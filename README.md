@@ -4,9 +4,10 @@ Features currently available for bouldering and top rope.
 
 ### Current features
 - Tracking cumulative progress (# of sends) for each bouldering grade
-<img width="1053" alt="image" src="https://github.com/absrp/pinnacle_climbing_analysis/assets/52015046/8292371a-e012-4bc0-a1bd-d8d07673f2df">
+<img width="811" alt="image" src="https://github.com/absrp/pinnacle_climbing_analysis/assets/52015046/54489f1f-4b7f-476a-90e8-a0e56f321f5d">
+
 - Tracking what proportion of climbs are a certain V grade or higher over time (default is quaterly analysis)
-<img width="1053" alt="image" src="https://github.com/absrp/pinnacle_climbing_analysis/assets/52015046/f88c1a12-58f7-4649-8067-ab2bd2ea989d">
+<img width="931" alt="image" src="https://github.com/absrp/pinnacle_climbing_analysis/assets/52015046/55aad972-66d1-45f6-bb25-74a08b827e42">
 
 <!-- CONTACT -->
 ## Contact
